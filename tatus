@@ -1,0 +1,2242 @@
+[33mcommit 2c72e4fcf009b5605ccc0c4af2339f44b8706afc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: revanthi <revanthi@gmail.com>
+Date:   Sat Apr 20 13:51:21 2024 +0530
+
+    first commit
+
+[33mcommit 35b3e45719e3828749be3547066a5c89562e890c[m
+Author: revanthi <revanthi@gmail.com>
+Date:   Sat Apr 20 13:47:24 2024 +0530
+
+    first commit
+
+[33mcommit 2b592cb8f6c0a6dd62d18ebfc6f4bfc7a2898e51[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gaidin Daishan <jus4me2009@gmail.com>
+Date:   Thu Feb 22 14:44:26 2024 +0530
+
+    Updated dates used in requests
+
+[33mcommit fd2c11a680da8b7df5a88abc0c4c1873e672dc1d[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Wed Jul 19 20:50:21 2023 +0530
+
+    Corrected CreateGooglePayTransaction
+
+[33mcommit c9b7033eea2d2f0545acbf9e98d06855669f8b91[m
+Author: Gaidin Daishan <jus4me2009@gmail.com>
+Date:   Wed Jul 19 20:24:07 2023 +0530
+
+    Fixed issues
+
+[33mcommit 63ada8cbebbdd2ee1c21ec1425db4f4aeec4bc5d[m
+Author: Gaidin Daishan <jus4me2009@gmail.com>
+Date:   Wed Jul 19 19:23:09 2023 +0530
+
+    Added CreateGooglePayTransaction
+
+[33mcommit 4273524bee9b099eaa24ea8f746dc78140eb76a6[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Sun Dec 19 00:46:08 2021 +0530
+
+    Update pom.xml
+
+[33mcommit 99fb1a2bdd222235a46306266e6e386816e29cd7[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Sun Dec 19 00:45:54 2021 +0530
+
+    Update pom.xml
+
+[33mcommit 1597ba1018cdee84d91a0d61a30aae9e187ce62e[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Sun Apr 4 22:39:03 2021 +0530
+
+    Update to latest version
+
+[33mcommit 94db4f89d1291a5ed86e68ae7ed5ab26b430dd4d[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Fri Mar 26 00:04:47 2021 +0530
+
+    Updated JUnit version
+
+[33mcommit b610d072b0ffe5454f24442ee7d9909e6e26f553[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Wed Mar 10 16:02:28 2021 +0530
+
+    Updated data
+
+[33mcommit d7b6b22d2c562113b6379746bcdf5e4db1215ef3[m
+Author: Gabriel B Nongsiej <gnongsie@visa.com>
+Date:   Sun Sep 20 20:26:48 2020 +0530
+
+    Fixing date field
+
+[33mcommit 88cc556b00990683dfeab289a266b48d08b761c3[m[33m ([m[1;31morigin/may-2020[m[33m)[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Wed Mar 4 13:10:39 2020 +0530
+
+    Blocking GetCustomerProfileIds call as response exceeds log limit
+
+[33mcommit ca8ead2be430f2780ff57a67c5e33364bf72b998[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Wed Mar 4 12:59:33 2020 +0530
+
+    Renamed Visa Checkout to Visa SRC
+
+[33mcommit 097ae9cbb0c3f84aea41820e680acbeca523d26c[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Wed Mar 4 12:52:12 2020 +0530
+
+    Renamed Visa Checkout to Visa SRC
+
+[33mcommit 26915a9201b6ebed3b3b5c616107cba72f731ce5[m
+Author: Kaushik Mahato <kikmak42@null.net>
+Date:   Mon Oct 28 17:00:53 2019 +0530
+
+    Update README.md
+
+[33mcommit 3ce5bd434485e2790210cce56ac8f0f3076fe92a[m
+Merge: 9a0a57a 63f849e
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Mon Oct 28 15:12:36 2019 +0530
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+
+[33mcommit 9a0a57a6eb474d78e6efd5038c6285a0dfc901c0[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Mon Oct 28 15:11:38 2019 +0530
+
+    Fixing proxy settings
+
+[33mcommit 63f849e37d36ebb3689bd605d3616c8338865bf2[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Tue Aug 20 13:31:14 2019 +0530
+
+    Update .travis.yml
+
+[33mcommit 0fb9586ee2e79d3b8f8295d8ccefb848c223c3f1[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Wed Mar 20 17:16:46 2019 +0530
+
+    Removing unused imports of deprecated code
+
+[33mcommit 800e75d37ecb54b33f7f2b94e63c541ecb32124f[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Wed Mar 20 16:34:35 2019 +0530
+
+    Updating to latest version of the SDK
+
+[33mcommit b6d3a14f157d2bc8a49ff0ee211fc6405860c4fb[m
+Author: Kaushik <kaumahat@visa.com>
+Date:   Tue Mar 5 12:55:31 2019 +0530
+
+    Remove unused imports
+
+[33mcommit 7c8c224b8c72f8daeda9c7c1a01a20827d37e233[m
+Author: Kaushik Mahato <kikmak42@null.net>
+Date:   Tue Mar 5 12:40:25 2019 +0530
+
+    Update SDK dependency to 2.0.0
+
+[33mcommit 266f0c450ad714bcedf436d81a0108ff956ed2a0[m
+Merge: 1561e3e 59067bc
+Author: anuragg29 <16344078+anuragg29@users.noreply.github.com>
+Date:   Thu Feb 7 22:28:23 2019 -0800
+
+    Merge pull request #88 from KarthikeyanKumar/master
+    
+    Create ComputeTransHashSHA2.java
+
+[33mcommit 59067bc95140f2bc3a8bcb22ae18206ca8d72328[m
+Author: KarthikeyanKumar <karthikeyan.cse.skcet@gmail.com>
+Date:   Thu Feb 7 16:58:24 2019 +0530
+
+    Create ComputeTransHashSHA2.java
+    
+    This is sample code to compute hmac sha 512 for a transaction for Authorize.net
+
+[33mcommit 1561e3e76f6e9a24d1973352d2d2d95619e51e71[m
+Merge: 534c6c3 b27310b
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Thu Dec 13 13:40:23 2018 +0530
+
+    Merge pull request #86 from nagarikantipavan/master
+    
+    Chase Pay Transaction changes in sample code
+
+[33mcommit b27310b2aa2318e27ca28ac62679f1ddec9d1fd8[m
+Author: pavankumar <pavanpk123@gmail.com>
+Date:   Wed Dec 12 15:02:46 2018 +0530
+
+    Chase pay changes in sample code
+
+[33mcommit 80ba5533b21f5974ccaaaef7f0b401987676b4a6[m
+Author: pavankumar <pavanpk123@gmail.com>
+Date:   Wed Dec 12 10:47:05 2018 +0530
+
+    Chase Pay Transaction changes in sample code
+
+[33mcommit 534c6c3ca3ed6b8e9ee9cd0882403b4c14894a45[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Fri Dec 7 11:20:46 2018 +0530
+
+    Update to latest version of SDK
+
+[33mcommit 3b2327f5896836d3bc6f061114da6771887b5d97[m
+Merge: 20913e6 ad4f71d
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Wed Nov 21 11:52:36 2018 +0530
+
+    Merge pull request #82 from nagarikantipavan/master
+    
+    Sample code XSD changes
+
+[33mcommit ad4f71d2c8f5e72834d4758f8faaad72e2f4077a[m
+Author: pavankumar <pavanpk123@gmail.com>
+Date:   Wed Nov 21 11:12:04 2018 +0530
+
+    XSD Sample code changes
+
+[33mcommit 2fa735e07fd10a9b050aa7a7ff4c2589026833d7[m
+Author: pavankumar <pavanpk123@gmail.com>
+Date:   Tue Nov 20 17:58:32 2018 +0530
+
+    XSD Sample code
+
+[33mcommit 067463fd3acc83fa82f61aae3da6270a2edd33c8[m
+Author: pavankumar <pavanpk123@gmail.com>
+Date:   Tue Nov 20 12:33:07 2018 +0530
+
+    XSD sample code changes
+
+[33mcommit 52a8dc1fb552c6fde57d83b798012cbea0302752[m
+Author: pavankumar <pavanpk123@gmail.com>
+Date:   Tue Nov 20 12:24:36 2018 +0530
+
+    XSD Sample code
+
+[33mcommit 9dfc1e6595e63bcb5f9d18d31eb2ece62c263a33[m
+Author: pavankumar <pavanpk123@gmail.com>
+Date:   Tue Nov 20 11:39:46 2018 +0530
+
+    Sample code XSD changes
+
+[33mcommit 20913e68efc402e55b77a2189b7ba175b3edde10[m
+Merge: a3315fc bc3ff06
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Tue Oct 16 10:39:18 2018 +0530
+
+    Merge pull request #80 from gnongsie/master
+    
+    October 2018 Release of API Reference
+
+[33mcommit bc3ff06e4aa11e4ed3377b46ae3e1650d7dfceab[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Tue Oct 16 10:32:49 2018 +0530
+
+    October 18 Release of API Reference
+
+[33mcommit a3315fc33d15e10840d81dad17ab2f08a452ef30[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Mon Oct 15 13:51:06 2018 +0530
+
+    Update bank account number
+
+[33mcommit 50546fdf69eed6c04835ca4c015e2501889cbc46[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Mon Oct 15 13:48:29 2018 +0530
+
+    Update bank account number
+
+[33mcommit de483419706f2e9bae01eb18c543071e5ad9385a[m
+Author: ashtru <ashutosh41093@gmail.com>
+Date:   Thu Sep 20 23:44:26 2018 +0530
+
+    Deleting unused files
+
+[33mcommit 8983fc208ed6ddb6f8d2dc00ec4e1c1a0d28aba5[m
+Author: Ashutosh Singh <ashtru@users.noreply.github.com>
+Date:   Thu Sep 20 23:18:13 2018 +0530
+
+    Delete GenerateKey.java
+
+[33mcommit c323d3a0830e03c3500d417721b5901d224c53d2[m
+Author: Ashutosh Singh <ashtru@users.noreply.github.com>
+Date:   Thu Sep 20 23:17:59 2018 +0530
+
+    Delete capture-payment.php
+
+[33mcommit fc6d0acc9d285800b5a56daa2f70a5f8b77e5ed3[m
+Author: Ashutosh Singh <ashtru@users.noreply.github.com>
+Date:   Thu Sep 20 23:17:39 2018 +0530
+
+    Delete CapturePayment.java
+
+[33mcommit 55f13dbe1445435ec0403b57190d648279067aae[m
+Author: ashtru <ashutosh41093@gmail.com>
+Date:   Thu Sep 20 23:13:30 2018 +0530
+
+    Files for testing rest api reference
+
+[33mcommit 0a722481d1df306878897b07b968e7844cb020a1[m
+Author: ashtru <ashutosh41093@gmail.com>
+Date:   Thu Sep 20 23:03:24 2018 +0530
+
+    Test files for Cybs REST API Reference
+
+[33mcommit 3c3f5f4c6386958832bd7ab78b30f5d7edf9dc2e[m
+Merge: 0b55add b0170d6
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Mon Aug 13 23:04:02 2018 +0530
+
+    Merge pull request #79 from AuthorizeNet/ashtru-patch-1
+    
+    Corrected formatting
+
+[33mcommit b0170d6653d8c184aa1017caf200affeedb3c990[m[33m ([m[1;31morigin/ashtru-patch-1[m[33m)[m
+Author: Ashutosh Singh <ashtru@users.noreply.github.com>
+Date:   Mon Aug 13 22:30:08 2018 +0530
+
+    Corrected formatting
+    
+    Corrected formatting
+
+[33mcommit 0b55add6f9199df8176107475c684a78fe656662[m
+Merge: d311e79 ddbe56f
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Sat Aug 11 00:18:12 2018 +0530
+
+    Merge pull request #78 from gnongsie/master
+    
+    Reverting changes due to rollback of API reference
+
+[33mcommit ddbe56feb684b9da2d7ee957ed7e200d945d19a2[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Fri Aug 10 23:48:12 2018 +0530
+
+    Revert "+ Adding files to Accept Suite"
+    
+    This reverts commit b4da3d2c0a3c6cd4a69a91889266eef232c51430.
+    
+    Reverting changes
+
+[33mcommit 156bcf2b56f9fbee0438d899afad2f848cfd8144[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Fri Aug 10 23:47:54 2018 +0530
+
+    Revert "+ Fixing package names"
+    
+    This reverts commit ab36aec29491e6a9a68ebe743d41b0ac941283ec.
+    
+    Reverting changes
+
+[33mcommit d311e79f36f8e139f64c1aee2a4dd3b20d20e508[m
+Merge: d3eea7e ab36aec
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Fri Aug 10 17:01:01 2018 +0530
+
+    Merge pull request #77 from gnongsie/master
+    
+    + Fixing package names
+
+[33mcommit ab36aec29491e6a9a68ebe743d41b0ac941283ec[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Fri Aug 10 17:00:05 2018 +0530
+
+    + Fixing package names
+
+[33mcommit d3eea7ec4db0eb3ee69d7547c1a489dcb1eaf10d[m
+Merge: 7257173 b4da3d2
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Fri Aug 10 16:36:20 2018 +0530
+
+    Merge pull request #76 from gnongsie/master
+    
+    Adding files to Accept Suite
+
+[33mcommit b4da3d2c0a3c6cd4a69a91889266eef232c51430[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Fri Aug 10 16:34:16 2018 +0530
+
+    + Adding files to Accept Suite
+
+[33mcommit aec1072695f55d9c84500b9c6528887a593c71d5[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Fri Aug 10 16:31:51 2018 +0530
+
+    Revert "+ Added functionality to handle ErrorResponse"
+    
+    This reverts commit b6b0ec5f34cb647a7818965bdcd65bc221e848c2.
+    
+    Reverting changes
+
+[33mcommit a5e123395e99bd5f4ea3b7a53de82198723a0442[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Fri Aug 10 16:31:37 2018 +0530
+
+    Revert "Update pom.xml"
+    
+    This reverts commit 27e78fbe0f5412d830e72aa8bab95d88fd5979ab.
+    
+    Reverting changes
+
+[33mcommit bbda1af9eae193c103a1581407a0d48e9b9cb9fa[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Fri Aug 10 16:31:14 2018 +0530
+
+    Revert "+ Adding Accept Suite"
+    
+    This reverts commit 8dd55fbcdbe0803fe3fa574ef96bea4cbe5289f2.
+    
+    Reverting changes
+
+[33mcommit 7257173fc49f6b905fe4ec7b7970d0ee099b7f4a[m
+Merge: e991670 8dd55fb
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Fri Aug 10 16:06:01 2018 +0530
+
+    Merge pull request #75 from gnongsie/master
+    
+    Moving files to AcceptSuite
+
+[33mcommit 8dd55fbcdbe0803fe3fa574ef96bea4cbe5289f2[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Fri Aug 10 16:03:40 2018 +0530
+
+    + Adding Accept Suite
+
+[33mcommit e9916701ea3048d0c540c461b07664f6c37c257b[m
+Author: Kaushik Kumar Mahato <kikmak42@null.net>
+Date:   Mon Jul 16 15:32:14 2018 +0530
+
+    Update DebitBankAccount.java
+
+[33mcommit ef5df32d772f1534075413a5efe035239698f1f3[m
+Author: Kaushik Kumar Mahato <kikmak42@null.net>
+Date:   Mon Jul 16 15:31:48 2018 +0530
+
+    Update CreditBankAccount.java
+
+[33mcommit 6ef3eb9258ac7f573758694b77bbe5260f9cc151[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Mon Jul 16 15:15:59 2018 +0530
+
+    Update DebitBankAccount.java
+    
+    Changing account type
+
+[33mcommit 27e78fbe0f5412d830e72aa8bab95d88fd5979ab[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Mon Jun 25 21:21:34 2018 +0530
+
+    Update pom.xml
+    
+    - Reverting version of SDK
+
+[33mcommit b6b0ec5f34cb647a7818965bdcd65bc221e848c2[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Mon Jun 25 21:17:22 2018 +0530
+
+    + Added functionality to handle ErrorResponse
+
+[33mcommit 79f28c757758cfcd44ce4bc401739e324d529999[m
+Merge: ff573e0 60a443c
+Author: Kaushik Kumar Mahato <kikmak42@null.net>
+Date:   Mon Jun 18 11:33:19 2018 +0530
+
+    Merge pull request #72 from gnongsie/master
+    
+    Update to consume Java SDK 1.9.7
+
+[33mcommit 60a443c5dc79b4db7d0698ecb478aa37f6ca0d33[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Mon Jun 18 11:24:20 2018 +0530
+
+    - Removing extra dependencies
+
+[33mcommit 78bcda928069f45fec31a231c4fd8a94693161d9[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Mon Jun 18 11:10:29 2018 +0530
+
+    + Latest version of SDK consumed
+
+[33mcommit ff573e033eae3c662d1d8a73e991e7275b3c050f[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Thu Jun 14 16:46:35 2018 +0530
+
+    Update SampleCode.java
+    
+    Updating customerProfileId, customerPaymentProfileId, customerAddressId and subscriptionId,
+
+[33mcommit ccb2f6d25e6ab6fefe5b322eda06f8f0d52962b1[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Wed Jun 13 15:52:33 2018 +0530
+
+    Update DebitBankAccount.java
+
+[33mcommit 26a1837adf7838c005340aa67a3badea5b30be55[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Wed Jun 13 15:52:09 2018 +0530
+
+    Update CreditBankAccount.java
+
+[33mcommit 51e31a40d5603a9c3d454e7109d005477a9d2eea[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Wed Jun 13 15:25:52 2018 +0530
+
+    Adding missing case for UpdateCustomerProfile
+
+[33mcommit 46ba4ae1db19c24d862a65c45b5c7866abc94d12[m
+Merge: fa2ae76 9bae6a6
+Author: Kaushik Kumar Mahato <kikmak42@null.net>
+Date:   Sun May 6 18:10:10 2018 +0530
+
+    Merge pull request #71 from kikmak42/master
+    
+    Updating Bank Routing Number
+
+[33mcommit 9bae6a6e8134e0e74c04654405ef6bbbee9f336e[m
+Author: Kaushik <kikmak42@null.net>
+Date:   Sun May 6 18:02:58 2018 +0530
+
+    Updating Bank Routing Number
+
+[33mcommit fa2ae7698b8203143feac7af2b5dfc3218ace951[m
+Merge: 461ac56 a3b9423
+Author: Kaushik Kumar Mahato <kikmak42@null.net>
+Date:   Fri Apr 6 16:17:55 2018 +0530
+
+    Merge pull request #69 from gnongsie/patch-1
+    
+    Adding documentation about proxy auth
+
+[33mcommit a3b942369a7af913418c469a53db7f83ae541127[m
+Author: Gabriel Broadwin Nongsiej <gnongsie@visa.com>
+Date:   Thu Mar 29 08:22:49 2018 +0530
+
+    Adding documentation about proxy auth
+
+[33mcommit 461ac560c8044b23e5ac900311a0fe531c5919fc[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Thu Mar 22 07:39:46 2018 -0700
+
+    Added sample for email setting
+
+[33mcommit c0f92d54a2f888e06d8a1256a42a05a793ed6809[m
+Merge: 00249c4 be04152
+Author: Kaushik Kumar Mahato <kikmak42@null.net>
+Date:   Tue Mar 6 09:53:28 2018 +0530
+
+    Merge pull request #67 from gnongsie/master
+    
+    Eclipse IDE build fix
+
+[33mcommit be0415201e79c714b9bd51faa4afadfab451a745[m
+Author: Kaushik Kumar Mahato <kikmak42@null.net>
+Date:   Tue Mar 6 09:51:06 2018 +0530
+
+    Update SampleCode.java
+    
+    Update https.proxyUser to https.proxyUserName
+
+[33mcommit ab415d68891f03b9f61715b7c3448f4d9efd6ab4[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Fri Mar 2 07:12:18 2018 -0800
+
+    + Fix build issue for Eclipse IDE
+
+[33mcommit 00249c46af0e8a7f836abd85e637099afd698e2a[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Wed Jan 24 15:07:10 2018 +0530
+
+    Update CreditBankAccount.java
+
+[33mcommit c1e655a95d67fea30d1b8b28f15c16fcab050adb[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Wed Jan 24 14:43:16 2018 +0530
+
+    Update DebitBankAccount.java
+
+[33mcommit 6c20e20922545c114fd9b9c3f69710f143a69f74[m
+Author: adavidw <aaron@infocreations.com>
+Date:   Thu Nov 16 11:28:13 2017 -0800
+
+    formatting changes to try to make formatting more consistent
+
+[33mcommit 4509302026fc4aa59938688687b2d9df53942d5b[m
+Author: adavidw <aaron@infocreations.com>
+Date:   Thu Nov 16 00:12:04 2017 -0800
+
+    update bank account
+
+[33mcommit f42bfaf14a35eb94dae834ff4b3047a9ce6f125a[m
+Author: adavidw <aaron@infocreations.com>
+Date:   Wed Nov 8 11:39:12 2017 -0700
+
+    Match the names as used in the API Reference
+
+[33mcommit f9ec093d260c4fecce909547e5c6558e4f60c192[m
+Author: adavidw <aaron@infocreations.com>
+Date:   Wed Nov 8 11:31:14 2017 -0700
+
+    Match the names as used in the API Reference
+
+[33mcommit b327955ca07de8f18cd414cf73eb5358f610f53b[m
+Author: adavidw <aaron@infocreations.com>
+Date:   Tue Oct 17 12:27:12 2017 -0600
+
+    unify format and wording of README files
+
+[33mcommit 22a2bccf888bc67635fc6f72c2c22fed588ffeac[m
+Merge: e4e6de1 41623b0
+Author: Aaron Wright <aaron@infocreations.com>
+Date:   Tue Oct 10 14:30:27 2017 -0700
+
+    Merge pull request #66 from adavidw/master
+    
+    update Travis testing environments
+
+[33mcommit 41623b07809b9c756f483771798bb39b6483ba38[m
+Author: adavidw <aaron@infocreations.com>
+Date:   Tue Oct 10 14:58:09 2017 -0600
+
+    allow travis failures on jdk9 until backward compatibility is worked out
+
+[33mcommit d1cc31977a79e3987ea2a6765d42ae4c415e2346[m
+Author: adavidw <aaron@infocreations.com>
+Date:   Tue Oct 10 12:54:25 2017 -0600
+
+    update Travis testing environments
+
+[33mcommit e4e6de14c5960415a24a7e0bfccfe247e51454c3[m
+Merge: 68a32a9 9fb08fd
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Wed Oct 4 11:07:50 2017 +0530
+
+    Merge pull request #65 from Sapbasu15/master
+    
+    updated Debit Bank Account account and routing number
+
+[33mcommit 9fb08fd876d1521468fbdfcf9d02e366eb81bcf7[m
+Author: sapbasu <sapbasu@visa.com>
+Date:   Tue Oct 3 19:17:24 2017 +0530
+
+    -- updated debit bank account account and routing number
+
+[33mcommit 68a32a9ee4c94ecd5b77ca54384dd626bd414a92[m
+Merge: af9084f 73191d9
+Author: adavidw <aaron@infocreations.com>
+Date:   Tue Sep 26 12:16:12 2017 -0600
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+
+[33mcommit af9084fbee380e83dcb7f6ce7b98ffebe7983f62[m
+Author: adavidw <aaron@infocreations.com>
+Date:   Tue Sep 26 12:15:54 2017 -0600
+
+    Rename directory to match the names used in the online API Reference guide
+
+[33mcommit bb0c297edc6154166f890dd681cc98430ca0d128[m
+Merge: 5b0a32d 73191d9
+Author: Saptarshi Basu <Sapbasu15@users.noreply.github.com>
+Date:   Mon Sep 25 15:18:14 2017 +0530
+
+    Merge pull request #1 from AuthorizeNet/master
+    
+    updating sample code fork
+
+[33mcommit 73191d91349f8956d5d79d5d049d9ad33332e261[m
+Author: Aaron Wright <aaron@infocreations.com>
+Date:   Fri Jun 23 09:49:29 2017 -0600
+
+    Update SampleCodeList.txt
+    
+    update to match new directory names
+
+[33mcommit 800dc49de18d9b3d921bcf6bf04277ebaea53d79[m
+Author: adavidw <aaron@infocreations.com>
+Date:   Mon Jun 19 13:50:25 2017 -0600
+
+    create sample code for Create an Accept Payment Transaction
+
+[33mcommit e626eec7847259a78db2ad449da72a8c0c60685d[m
+Author: adavidw <aaron@infocreations.com>
+Date:   Mon Jun 19 12:56:16 2017 -0600
+
+    Rename directory to match online API Reference
+
+[33mcommit 593fdc5bcf772a56579a7477d8cbee6a01723aeb[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Wed Apr 26 11:50:31 2017 +0530
+
+    Update pom.xml
+
+[33mcommit 68b7a70a81ac202ea962629dce37f76dc1d249fe[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Tue Apr 25 15:24:46 2017 +0530
+
+    Update SampleCodeList.txt
+
+[33mcommit 474e003d2a23f4295557ce4da0e25bfd21353119[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Tue Apr 25 14:48:00 2017 +0530
+
+    Update pom.xml
+
+[33mcommit bc0b1fbabdf1c304e76be745671a7a323925b04f[m
+Merge: ecc6768 fb4c0e7
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Tue Apr 25 14:47:47 2017 +0530
+
+    Merge pull request #63 from akashshah1203/master
+    
+    Adding GetCustomerProfileTransactionList sample code
+
+[33mcommit fb4c0e7ae13ff05ee667e7ebc1df7095f678bf18[m
+Author: akashah <akashah@visa.com>
+Date:   Thu Apr 13 14:30:27 2017 +0530
+
+    Adding GetCustomerProfileTransactionList sample code
+
+[33mcommit ecc67680a5ff2607a437faafeeddf8a1a4cb5d78[m
+Author: Aaron Wright <aaron@infocreations.com>
+Date:   Mon Mar 20 17:13:11 2017 -0600
+
+    Update README.md
+
+[33mcommit 02b833f9ffc2dbd4fda336e1756a86936f1620c3[m
+Author: Aaron Wright <aaron@infocreations.com>
+Date:   Mon Mar 20 17:12:42 2017 -0600
+
+    formatting README.md
+
+[33mcommit f489f39900b5a4e1d526dbdb08cfcdfd6205700b[m
+Author: Aaron Wright <aaron@infocreations.com>
+Date:   Mon Mar 20 17:06:29 2017 -0600
+
+    add isPaymentToken
+
+[33mcommit 191cd878759947786bf4a311b59b718335e90b94[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Feb 21 23:11:44 2017 -0800
+
+    Update TestRunner.java
+
+[33mcommit 706e18290816ee87ef3b76edc7ebe4acfbcf80f4[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Feb 21 22:12:56 2017 -0800
+
+    Update AuthorizeCreditCard.java
+
+[33mcommit 9321bc0a7c68a1fff785f25f9f1b8e3c0b1b047b[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed Jan 25 07:26:42 2017 -0800
+
+    Update TestRunner.java
+
+[33mcommit 1318f9b9a965098bbe07f8c06e6875006257940b[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed Jan 25 07:26:07 2017 -0800
+
+    Update SampleCodeList.txt
+
+[33mcommit 403f2e81d0ae403b552bb53049d8445ea059f5e2[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed Jan 25 07:24:37 2017 -0800
+
+    Update SampleCode.java
+
+[33mcommit 525ae55b5e8bf62d12f7961f97e84ec322703b4a[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed Jan 25 07:23:40 2017 -0800
+
+    Update and rename GetHostedPaymentPage.java to GetAnAcceptPaymentPage.java
+
+[33mcommit 65db12f05a1fcaa505b730fe042ead077965ff93[m
+Merge: 96f6a9e 2269877
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed Jan 25 07:16:57 2017 -0800
+
+    Merge pull request #61 from bhav18/master
+    
+    fix the namespace for the main file "SampleCode.java"
+
+[33mcommit 226987750aebef7d43504bf5c1936f5c439e3229[m
+Author: Tammineni <btammine@visa.com>
+Date:   Tue Jan 17 21:26:32 2017 -0800
+
+    fix the namespace for the main file
+
+[33mcommit 96f6a9e17051c83e5ac15d3ebb8d97be38c025bf[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Thu Dec 29 07:32:37 2016 -0800
+
+    Update GetHeldTransactionList.java
+
+[33mcommit e2d12810b10612b0238016be08ffa3187028c3fd[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Thu Dec 29 07:32:01 2016 -0800
+
+    Update ApproveOrDeclineHeldTransaction.java
+
+[33mcommit d00f0b88c6b594e8066323c8c817a619dbb236f7[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Mon Dec 19 20:43:38 2016 -0800
+
+    Delete GetHeldTransactions.java
+
+[33mcommit 7e6ed900759be64936dec185cc023b1f587ca781[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Thu Dec 8 09:22:58 2016 -0800
+
+    Updated Fraud Samples
+
+[33mcommit 886c6c14cd5ced28155c66321ed2bda7326737de[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Thu Dec 8 09:20:59 2016 -0800
+
+    Updated Fraud Samples
+
+[33mcommit 49b7a7cdf5d4ccd82c014f5926d77ad644e23e30[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Fri Nov 25 20:02:25 2016 -0800
+
+    Update TestRunner.java
+
+[33mcommit 3fa891ea4652d204e30b337f2b866e304c2e0e63[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Fri Nov 25 20:00:16 2016 -0800
+
+    Update SampleCodeList.txt
+
+[33mcommit 4fc45885a84b5e03204868c1c30f772d7eca7426[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Fri Nov 25 19:59:45 2016 -0800
+
+    Update SampleCode.java
+
+[33mcommit daff021a426d94777bff0d8d8a649bb68d5c21b8[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Fri Nov 25 19:58:26 2016 -0800
+
+    Update TestRunner.java
+
+[33mcommit e3543e9a57f05a14bf4d95a5aa4a58cb7e265aaf[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Fri Nov 25 19:56:43 2016 -0800
+
+    Update and rename GetHostedProfilePage.java to GetAcceptCustomerProfilePage.java
+
+[33mcommit 3155bcef19433d18e2ed307e31383e4a9e2bff03[m
+Merge: c323a21 6852135
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Fri Nov 25 15:25:05 2016 +0530
+
+    Merge pull request #60 from sunnyrajrathod/master
+    
+    samples for new APIs
+
+[33mcommit c323a21457dd26b78725186f785cb75e183c8a60[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Fri Nov 25 15:18:29 2016 +0530
+
+    Update pom.xml
+
+[33mcommit 6852135827ca933e7f65aec124337636e10ae979[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Fri Nov 25 15:15:39 2016 +0530
+
+    Delete TestMultiThread.java
+
+[33mcommit 5658841ec5014337b778fc24dc46d7d7fc270a6f[m
+Merge: c7b88bb 5495836
+Author: sunnyrajrathod <sunnyrajrathod@gmail.com>
+Date:   Fri Nov 25 15:09:39 2016 +0530
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+
+[33mcommit c7b88bb7b52e3198535a1909a70af3f990860ed6[m
+Author: sunnyrajrathod <sunnyrajrathod@gmail.com>
+Date:   Fri Nov 25 15:06:45 2016 +0530
+
+    - Adding samples for new APIs.
+
+[33mcommit 5495836f2c88602f4c27d0385af5bbad5ce892ff[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Thu Nov 24 19:01:40 2016 +0530
+
+    Update pom.xml
+
+[33mcommit c24fac3c33f776904dce12ff5a6e3cf467bec34a[m
+Author: sunnyrajrathod <sunnyrajrathod@gmail.com>
+Date:   Thu Nov 24 11:39:30 2016 +0530
+
+    - Fix in GetHostedPaymentPage
+
+[33mcommit e51c081e4a9527409385aa182378e94c9b69bd64[m
+Author: sunnyrajrathod <sunnyrajrathod@gmail.com>
+Date:   Thu Nov 24 11:12:11 2016 +0530
+
+    - Updating samples for q4 api.
+
+[33mcommit 9efea767225507b5dc68269264c85581dd14dc5c[m
+Merge: efc6e24 b4dd6b5
+Author: sunnyrajrathod <sunnyrajrathod@gmail.com>
+Date:   Thu Nov 24 10:17:32 2016 +0530
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+
+[33mcommit b4dd6b558b3b6400c62ab6ba98a0796f7de186ba[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Tue Oct 4 16:49:23 2016 +0530
+
+    Update pom.xml
+
+[33mcommit 2fb00fea3a98a234969a01c06c5b64908dcb901e[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Mon Oct 3 15:39:16 2016 -0700
+
+    added MT Test
+
+[33mcommit ca9786a6300eca332494945c7c6bd8f7083de71e[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Mon Oct 3 22:10:36 2016 +0530
+
+    Update TestRunner.java
+
+[33mcommit efc6e24f919a7cf1c1350345522ea69c2bcde86b[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Mon Oct 3 22:09:44 2016 +0530
+
+    Update TestRunner.java
+
+[33mcommit 3948f2576df6d642617c823fb057e2a7aed8674b[m
+Author: srathod <srathod@visa.com>
+Date:   Mon Oct 3 18:29:42 2016 +0530
+
+    - Adding multi threading test.
+
+[33mcommit fad861cd13dab3978cee42856d0dac3205ea9e7c[m
+Merge: fa8623a 2631236
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Sun Aug 28 11:19:47 2016 +0530
+
+    Merge pull request #59 from sunnyrajrathod/master
+    
+    Sample Code Updates to handle identify successful transactions.
+
+[33mcommit 2631236bfa9d789c76b48b947c2e8599379068e4[m
+Author: srathod <srathod@visa.com>
+Date:   Sun Aug 28 11:15:55 2016 +0530
+
+    - randomizing description to avoid duplicate record error.
+
+[33mcommit 4694a25c39b49764d105c79147bc04682c04b1b9[m
+Author: srathod <srathod@visa.com>
+Date:   Fri Aug 26 23:03:58 2016 +0530
+
+    Adding prints for response codes and message codes.
+
+[33mcommit 9e351fbe0b72fed7d63a861dad0cb7a3e1bd6800[m
+Author: srathod <srathod@visa.com>
+Date:   Thu Aug 25 20:01:04 2016 +0530
+
+    - Reverting AuthorizeCreditCard change.
+
+[33mcommit e1e28cd0855d5ef9b818ad87e25a9ac288fc13bc[m
+Author: srathod <srathod@visa.com>
+Date:   Thu Aug 25 19:43:46 2016 +0530
+
+    - updated samples to handle checks for successful transaction.
+
+[33mcommit fa8623ac3ec7414001aed1be3143a1d0f721a948[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Wed Aug 24 18:32:41 2016 +0530
+
+    Update SampleCodeList.txt
+
+[33mcommit 826053d5eb204276a234bc6d328d9fcc23481a7e[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Wed Aug 24 18:32:21 2016 +0530
+
+    Update SampleCode.java
+
+[33mcommit c2b8e0b52193ec4f4c362cd07681cd251c281925[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Wed Aug 24 18:31:57 2016 +0530
+
+    Update and rename src/main/java/net/authorize/sample/MobileInAppTransactions/CreateAnApplePayTransaction.java to src/main/java/net/authorize/sample/MobileInappTransactions/CreateAnApplePayTransaction.java
+
+[33mcommit a165f50d2318039797c40fcaf300119e01dc038b[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Wed Aug 24 18:31:21 2016 +0530
+
+    Update and rename src/main/java/net/authorize/sample/MobileInAppTransactions/CreateAnAndroidPayTransaction.java to src/main/java/net/authorize/sample/MobileInappTransactions/CreateAnAndroidPayTransaction.java
+
+[33mcommit a57ac03a3733d605543f86e91469b46f2e169017[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Wed Aug 24 18:31:08 2016 +0530
+
+    Update and rename src/main/java/net/authorize/sample/MobileInAppTransactions/CreateAnAcceptTransaction.java to src/main/java/net/authorize/sample/MobileInappTransactions/CreateAnAcceptTransaction.java
+
+[33mcommit 6dfb7e39a3a67dd1ce2342b6aeb0c2aaf749ad53[m
+Merge: a23e620 c3f21e4
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Mon Aug 22 20:00:11 2016 +0530
+
+    Merge pull request #58 from kikmak42/master
+    
+    Adding sample code for Accept & AndroidPay
+
+[33mcommit c3f21e486f873fb9fa502f19d6807521ef7168fa[m
+Author: Kaushik <kikmak42@null.net>
+Date:   Mon Aug 22 19:12:39 2016 +0530
+
+    Added Sample Accept & AndroidPay
+
+[33mcommit 47a46c6f4493eb361c5183fc45e33b75d5494dc5[m
+Author: Kaushik <kikmak42@null.net>
+Date:   Mon Aug 22 18:50:46 2016 +0530
+
+    Java env proxy setting eg. in Readme
+
+[33mcommit a23e62086bf4d193aa8719d4e56c9bfdda411960[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed Aug 17 08:05:53 2016 -0700
+
+    Update README.md
+
+[33mcommit 3dd8410dc1fd3da0976f679f6bd8414dd4370c9e[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed Aug 17 07:56:16 2016 -0700
+
+    Update README.md
+
+[33mcommit f64bd13ba769985139307013b59443f9018a3a52[m
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Sat Aug 13 02:23:03 2016 +0530
+
+    Update pom.xml
+
+[33mcommit 5b0a32dfb29889580b37d51b90c97247918f4085[m
+Merge: 79a0fea 2809aad
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Thu Jul 7 09:46:05 2016 +0530
+
+    Merge pull request #57 from akankaria/master
+    
+    Fixing travis build
+
+[33mcommit 2809aad48a159e66c7ea92ed62444ac4f005828a[m
+Author: akankari <akankari@visa.com>
+Date:   Fri Jul 1 21:54:48 2016 +0530
+
+    - Adding sleep to avoid travis build failure
+    - Updating the expiry date
+
+[33mcommit 79a0fea3ee5bf676acf3ae5f66794652213cc634[m
+Merge: a5a0356 a49a475
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Wed Jun 29 16:15:58 2016 +0530
+
+    Merge pull request #56 from akankaria/master
+    
+    Recycling the default transaction key
+
+[33mcommit a49a47553d94317fb1e488688673fdcb7aa05b18[m
+Author: Ashish Kankaria <akankari@visa.com>
+Date:   Wed Jun 29 14:11:28 2016 +0530
+
+    Updating the transaction key
+
+[33mcommit 80da4b7f2f6aac16ff1f0c135b37ade66e61b95b[m
+Author: Ashish Kankaria <akankari@visa.com>
+Date:   Wed Jun 29 14:10:46 2016 +0530
+
+    Updating the transaction key
+
+[33mcommit a5a0356282edc9ea7fccfd83706b831b1a7acf3d[m
+Merge: 05c1205 b29b57c
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Wed Jun 22 11:12:03 2016 +0530
+
+    Merge pull request #55 from sunnyrajrathod/master
+    
+    - Added retries while running a sample in TestRunner.
+
+[33mcommit b29b57c3fb522b85aab6c0a7e847d527a04fdc43[m
+Author: srathod <srathod@visa.com>
+Date:   Thu Jun 16 15:20:44 2016 +0530
+
+    - Added retries while running a sample in TestRunner.
+
+[33mcommit 05c1205d2da5006a8cd697c60ad27bcd1cbcf785[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Thu Apr 21 13:53:41 2016 -0700
+
+    Updated Refund sample to demonstrate that full card and expiry are not required to do a linked credit
+
+[33mcommit 9d7df770cfdae4c402b0addccc86a7f95a2ac3de[m
+Merge: 0e2e181 18843b6
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Mon Mar 21 18:07:31 2016 +0530
+
+    Merge pull request #53 from sunnyrajrathod/master
+    
+    - Updating UpdateSubscription sample code for profile information.
+
+[33mcommit 18843b64c070dcd88e46b6d8eb338f9d61aa177e[m
+Author: srathod <srathod@visa.com>
+Date:   Mon Mar 21 14:06:32 2016 +0530
+
+    - Updating UpdateSubscription sample code for profile information.
+    - Added prints to subscriptionids in GetCustomerProfile, GetCustomerPaymentProfile and GetCustomerShippingAddress.
+
+[33mcommit 0e2e1813dc3ed26d0f5d6125494205ce87b1590b[m
+Merge: c52b373 1b9d0f8
+Author: Sunny Raj Rathod <sunnyrajrathod@users.noreply.github.com>
+Date:   Fri Mar 18 23:12:35 2016 +0530
+
+    Merge pull request #52 from akankaria/master
+    
+    Q1 updates
+
+[33mcommit 1b9d0f82f523c8e21b222af8f1c78aa2262153b4[m
+Author: srathod <srathod@visa.com>
+Date:   Thu Mar 17 11:13:29 2016 +0530
+
+    - Updated pom.xml to add sdkVersion property. This has been added so that sample-code-java travis build can work individually using latest jar from remote maven repository and also run from sdk-java travis using the latest built sdk jar.
+    - Minor fixes in sample codes mostly for null checks.
+
+[33mcommit 9e9e96357af3de1c346341af74402653ff18bb47[m
+Author: akankari <akankari@visa.com>
+Date:   Thu Mar 10 15:43:59 2016 +0530
+
+    Adding new sample code for CreateSubscriptionFromCustomerProfile. Adding corresponding tests in test runner.
+    Updated Sample code to pass CustomerProfileBaseType object in CreateCustomerProfileFromTransaction.
+    
+    To be reviewed by Sunny
+
+[33mcommit c52b3735b07f768dad29d12334609d002830ff7e[m
+Merge: f773cc4 42e76a2
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Sat Jan 30 15:53:13 2016 -0800
+
+    Merge pull request #50 from sunnyrajrathod/master
+    
+    Added testrunner script.
+
+[33mcommit 42e76a2062a51ae447c2e554c2d8bd8f4c48293f[m
+Author: srathod <srathod@visa.com>
+Date:   Thu Jan 28 15:40:07 2016 +0530
+
+    - Added necessary constants in SampleCode.java.
+    - Updated setAmount for BigDecimal initialization as suggested by rajeev.
+
+[33mcommit a3eb751df752ea36bfbc25af0c0fcf688d572c45[m
+Author: srathod <srathod@visa.com>
+Date:   Tue Jan 12 12:18:39 2016 +0530
+
+    - Updated sample codes for RefundTransaction and CreditBankAccount.
+
+[33mcommit 268369eb6fc0f271db3fe0b3be1f610e47c4f5e5[m
+Author: srathod <srathod@visa.com>
+Date:   Tue Jan 12 11:08:58 2016 +0530
+
+    - Fixed customer id in CreateCustomerProfile.
+
+[33mcommit 6b50c1741d5d18ea749c33a16c1ed5cb34551a09[m
+Author: srathod <srathod@visa.com>
+Date:   Tue Jan 12 11:02:06 2016 +0530
+
+    - Added randomness for merchant customer id in CreateCustomerProfile.
+
+[33mcommit 3d4748c98c848dabfedce1e4546d3329f3377dcc[m
+Author: srathod <srathod@visa.com>
+Date:   Tue Jan 12 10:42:39 2016 +0530
+
+    - Added amount and email as parameter in CreateCustomerProfileFromTransaction.
+
+[33mcommit a04e4e9dfb5ca6dac0d1d7099cd4f1bce219d120[m
+Author: srathod <srathod@visa.com>
+Date:   Tue Jan 12 10:29:17 2016 +0530
+
+    - Changed random getAmount function.
+
+[33mcommit d0c71a8898615ca8266f4a85d8e7693a44bb7ba6[m
+Author: srathod <srathod@visa.com>
+Date:   Tue Jan 12 10:25:19 2016 +0530
+
+    - Fixed decimal format for amount.
+
+[33mcommit 3d956d39378cd582424132702e6ca522e23aeb50[m
+Author: srathod <srathod@visa.com>
+Date:   Tue Jan 12 10:18:26 2016 +0530
+
+    - Another fix for random double generator.
+
+[33mcommit 1bf5bebd313995c4d2850735e6b19a87407d3233[m
+Author: srathod <srathod@visa.com>
+Date:   Tue Jan 12 10:13:06 2016 +0530
+
+    - Updating random amount generator function.
+
+[33mcommit 12f4de10cc6d9344b9a0f375bbc38ee92458f947[m
+Author: srathod <srathod@visa.com>
+Date:   Tue Jan 12 10:06:00 2016 +0530
+
+    - Fixed amount to string for ChargeCreditCard.
+
+[33mcommit 6d9dbace38e8d2ee513f0b07c257089bb66ccf8e[m
+Author: srathod <srathod@visa.com>
+Date:   Tue Jan 12 10:01:54 2016 +0530
+
+    - Fixed amount to string conversion for AuthorizationAndCapture.
+
+[33mcommit 38dc93083c7def41a0057b41ae99e5bdd3e60e65[m
+Author: srathod <srathod@visa.com>
+Date:   Tue Jan 12 09:17:37 2016 +0530
+
+    - Fixed amount to string conversion. Required for use in BigDecimal.
+
+[33mcommit 1b6adc89c5b0cefbbeb1e633e6142b0e48ec421c[m
+Author: srathod <srathod@visa.com>
+Date:   Mon Jan 11 22:34:38 2016 +0530
+
+    - Amount fix for ChargeTokenizedCreditCard.java.
+
+[33mcommit 1d6789c66a8f7e636e7d1c5fd3fd6e9b3a82cea3[m
+Author: srathod <srathod@visa.com>
+Date:   Mon Jan 11 22:29:58 2016 +0530
+
+    - Fixed DebitBankAccount.java. Different values of amount required to run the test multiple times.
+
+[33mcommit 73f9231b437a3ee49ea88cd839a50d7f902bcfa0[m
+Author: srathod <srathod@visa.com>
+Date:   Mon Jan 11 22:21:28 2016 +0530
+
+    - Moved SampleCodeTest package to src/test/java.
+
+[33mcommit e468af42f87a49360b6f8136877fea106ce19193[m
+Author: srathod <srathod@visa.com>
+Date:   Mon Jan 11 21:47:09 2016 +0530
+
+    - Fixed junit dependency.
+
+[33mcommit 28d41aea79f36a5bf86c5accb21b985c7a4a4997[m
+Author: srathod <srathod@visa.com>
+Date:   Mon Jan 11 21:41:07 2016 +0530
+
+    - Added junit dependency in pom.xml.
+    - Fixed some samplecodes.
+
+[33mcommit e39c1767feeef68398212012e3ea7c55d7e07efb[m
+Author: srathod <srathod@visa.com>
+Date:   Mon Jan 11 16:45:44 2016 +0530
+
+    - Implemented testrunner for java.
+    - Updated sample codes to return ANetApiResponse so that output can be validated by TestRunner.
+
+[33mcommit f773cc4a7abc1db6d3aa867cb3f9b4c79601ab33[m
+Merge: 922b87d 0d02b59
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Dec 29 07:28:21 2015 -0800
+
+    Merge pull request #48 from akankaria/master
+    
+    Correcting the class name in order to fix travis build
+
+[33mcommit 0d02b59b967488b03a341adf9c504da81f8dc3ae[m
+Author: akankari <akankari@visa.com>
+Date:   Tue Dec 29 13:49:22 2015 +0530
+
+    Correcting the class name in order to fix build
+
+[33mcommit 922b87d15ab3a95d81f0c839c6ba414fcfdfd4b7[m
+Merge: c0488f4 8a0a03b
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Mon Dec 28 23:43:35 2015 -0800
+
+    Merge pull request #45 from Zeeshan7293/master
+    
+    Fixed issue #43.
+
+[33mcommit c0488f48a6db878dca0d11a6ec664a336aaba58c[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Mon Dec 28 07:40:26 2015 -0800
+
+    Rename CaptureOnly.java to CaptureFundsAuthorizedThroughAnotherChannel.java
+
+[33mcommit 8a0a03b0f3528d7115a10d54e9e0116d4b7fcf1b[m
+Merge: 37b8c56 b0e58e7
+Author: zhaque <zhaque@visa.com>
+Date:   Mon Dec 28 15:06:49 2015 +0530
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+
+[33mcommit b0e58e7d1cfdd7f19cea6366276648268562ffe9[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Sun Dec 27 21:21:52 2015 -0800
+
+    Updated Sample for Refund
+
+[33mcommit 37b8c56ea9fa4d562fe88563da0cd8732e2162d8[m
+Author: zhaque <zhaque@visa.com>
+Date:   Wed Dec 23 12:09:34 2015 +0530
+
+    Added ValidateCustomerPaymentProfile to the list of displayed sample code names and also added the case expression for it.
+
+[33mcommit 7e9d0d2b7613380e36d52b328ad93f953ebd9464[m
+Merge: 70ed0af 24b9403
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Sat Dec 5 11:40:58 2015 -0800
+
+    Merge pull request #42 from Zeeshan7293/master
+    
+    Modified the SampleCode.java for running Visa Checkout sample codes
+
+[33mcommit 24b9403f55969debdd4b804f088e0dccfc77d400[m
+Author: zhaque <zhaque@visa.com>
+Date:   Mon Nov 30 16:39:44 2015 +0530
+
+    Modified the SampleCode.java for running Visa Checkout sample codes
+
+[33mcommit 70ed0afa3aea56fd383b6d6edf7acf655ee6c599[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Sun Nov 29 06:24:41 2015 -0800
+
+    Updated sample to use a profile ID
+
+[33mcommit 781faede73a0856d26efad046fa3c4cf01e84d16[m
+Merge: a6a7f54 1714fc4
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Sun Nov 29 06:11:50 2015 -0800
+
+    Merge pull request #40 from Zeeshan7293/master
+    
+    Added CreateAnApplePayTransaction sample code and modified SampleCode
+
+[33mcommit 1714fc4b143f829e3acf5ee3b3a703f23bffb732[m
+Author: zhaque <zhaque@visa.com>
+Date:   Wed Nov 25 23:28:17 2015 +0530
+
+    Added CreateAnApplePayTransaction sample code and modified SampleCode
+
+[33mcommit a6a7f5445261d001c2842ede68f624dbda8d21ab[m
+Merge: 3437cef e0ba9e2
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Sun Nov 22 22:19:45 2015 -0800
+
+    Merge pull request #39 from Zeeshan7293/master
+    
+    Added sample code for GetSubscription and GetCustomerPaymentProfileList
+
+[33mcommit 3437cefc20c8486bdeb7bc7cd6714b652e871e7c[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Sun Nov 22 22:16:12 2015 -0800
+
+    Update pom.xml
+
+[33mcommit e0ba9e289b3de6b3450368e22c9f3fe4f7cbe3a7[m
+Author: zhaque <zhaque@visa.com>
+Date:   Thu Nov 19 17:43:35 2015 +0530
+
+    Sample code changed
+
+[33mcommit a493fcf2906718946ab11a9d9d8dc4aab5ae6dae[m
+Merge: 32a184e 4c090e9
+Author: zhaque <zhaque@visa.com>
+Date:   Thu Nov 19 17:36:39 2015 +0530
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+    
+    Conflicts:
+            src/main/java/net/authorize/sample/SampleCode.java
+
+[33mcommit 32a184ee6de85b0028a6b41b86a5be86381173c3[m
+Author: zhaque <zhaque@visa.com>
+Date:   Thu Nov 19 16:43:00 2015 +0530
+
+    - Added sample code for GetSubscription and GetCustomerPaymentProfileList.
+
+[33mcommit 4c090e9f398a06b86ab053088d625ed696328ec8[m
+Merge: 4d87734 381b957
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Nov 17 21:35:45 2015 -0800
+
+    Merge pull request #36 from kikmak42/master
+    
+    Added call request to GetCustomerProfileIds & Fixed GetSettledBatchList
+
+[33mcommit 4d8773498d8b3643f171630cd43be99c3a5c317c[m
+Merge: 148251b 843f0fc
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Nov 17 11:05:42 2015 -0800
+
+    Merge pull request #37 from sapta89/master
+    
+    updated CreateSubscription.java
+
+[33mcommit 148251b36b921945ca7ad72371f6c087304da75c[m
+Merge: 4de6cde bdbfe0e
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Nov 17 11:05:24 2015 -0800
+
+    Merge pull request #38 from gnongsie/master
+    
+    Added sample code for UpdateSplitTenderGroup
+
+[33mcommit 381b95717b94c02d349245471826eee5a67acfad[m
+Author: Kaushik <kikmak42@null.net>
+Date:   Mon Nov 16 18:01:56 2015 +0530
+
+    Removed ZonedDateTime
+
+[33mcommit 8db3cd1cee36f8198dae31eb2311e01a06c19285[m
+Author: Kaushik <kikmak42@null.net>
+Date:   Mon Nov 16 17:32:23 2015 +0530
+
+    XMLGeorgianCalendar object created using DataFactory -> GetSettledBatchList
+
+[33mcommit 20ac7a99c4fddd9850f28d37946c39e0918c6dfd[m
+Author: Kaushik <kikmak42@null.net>
+Date:   Fri Nov 13 16:11:20 2015 +0530
+
+    Removed Hard Coded first & last settlement date.
+
+[33mcommit 9e13b3f8601259de1ca91376f6b488aed89f45b7[m
+Author: kaumahat <kaumahat@visa.com>
+Date:   Mon Nov 9 15:51:47 2015 +0530
+
+    GetSettledBatchList display detailed error message
+
+[33mcommit 01021596d4625ed2b3b54faa468841aa5c602027[m
+Author: kaumahat <kaumahat@visa.com>
+Date:   Mon Nov 9 15:23:18 2015 +0530
+
+    Fixed GetSettledBatchList Sample Code
+
+[33mcommit bdbfe0e66cacfaf6754b4c8ddfbaf06131689cc4[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Tue Oct 27 15:54:08 2015 +0530
+
+    Changed dependencies in pom.xml
+    Added sample code for UpdateSplitTenderGroup
+    Added function call in SampleCode
+
+[33mcommit cd7c93726f6e182dfe65a069b8326a42ac05da21[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Tue Oct 27 14:21:35 2015 +0530
+
+    Committed to master of AuthorizeNet
+    Changed the dependency to use the Error100 continue fix
+
+[33mcommit 843f0fc728c6ce3241464f0d83078f190b35cbf6[m
+Author: sapta89 <sapta89@users.noreply.github.com>
+Date:   Tue Oct 20 17:51:32 2015 +0530
+
+    updated CreateSubscription.java
+    
+    Minor issue in converting amount to BigDecimal with double constructor, resulting in invalid amount error.
+    Changed input parameter to string.
+
+[33mcommit 9947a9faa6b154802730573395e2ba02a253285a[m
+Merge: 8ff4537 0740319
+Author: Kaushik Mahato <kkm.iitkgp@gmail.com>
+Date:   Tue Oct 20 16:30:35 2015 +0530
+
+    Merge branch 'master' of https://github.com/kikmak42/sample-code-java
+
+[33mcommit 8ff45377d847bcd4ebcc093e5fe3ea9ab3dc39ba[m
+Merge: 9d471dd c802b92
+Author: Kaushik Mahato <kkm.iitkgp@gmail.com>
+Date:   Tue Oct 20 16:28:27 2015 +0530
+
+    Merge branch 'master' of https://github.com/kikmak42/sample-code-java
+
+[33mcommit 0740319f0ad53d7fef86b9697a702f269710fe57[m
+Merge: 9d471dd c802b92
+Author: Kaushik Mahato <kkm.iitkgp@gmail.com>
+Date:   Tue Oct 20 16:28:27 2015 +0530
+
+    Merge branch 'master' of https://github.com/kikmak42/sample-code-java
+
+[33mcommit 9d471ddb1c06304b9f1a2b08e8110dfee2b333ff[m
+Author: Kaushik Mahato <kkm.iitkgp@gmail.com>
+Date:   Mon Oct 19 18:46:15 2015 +0530
+
+    Added call request to GetCustomerProfileIds
+
+[33mcommit c802b92adbf92b26b43a87045b457e7d9af4461d[m
+Author: Kaushik Mahato <kkm.iitkgp@gmail.com>
+Date:   Mon Oct 19 18:46:15 2015 +0530
+
+    Added call request to GetCustomerProfileIds
+
+[33mcommit 4de6cde809b3e808a153932033ebf21512348be8[m
+Merge: 7bd4d34 3c02f7f
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Fri Oct 16 06:28:33 2015 +0000
+
+    Merge pull request #32 from namanbansal/master
+    
+    Thanks @namanbansal
+
+[33mcommit 3c02f7fc09696883b0d4dd682ac0f45ff2e6f97b[m
+Merge: c25f049 7bd4d34
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Thu Oct 15 12:20:09 2015 +0530
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+    
+    Conflicts:
+            src/main/java/net/authorize/sample/SampleCode.java
+
+[33mcommit 7bd4d342e141b90cbdb8df50913bd1214b024575[m
+Merge: c0f9116 ac8462d
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Wed Oct 14 23:22:13 2015 -0700
+
+    Merge branch 'gnongsie-master'
+
+[33mcommit ac8462d5dec6e6cfae240978b83b43fa07e7a882[m
+Merge: c0f9116 5171725
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Wed Oct 14 23:21:34 2015 -0700
+
+    merged PR conflicts
+
+[33mcommit c0f9116e8e9e4802207071cf2ee0be0e061e86f0[m
+Merge: 60f72cc 01116a7
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed Oct 14 23:12:01 2015 -0700
+
+    Merge pull request #34 from rahulrnitc/master
+    
+    Sample code for PayPal GetDetails API.  Thanks @rahulrnitc
+
+[33mcommit 01116a757698e7ab6cdab966ebc927e97da54822[m
+Author: rahulrnitc <rahulrnitc@gmail.com>
+Date:   Wed Oct 14 11:58:57 2015 +0530
+
+    Update GetDetails.java
+
+[33mcommit c25f04937fc4af5b3676ae4f1c02bacfe8d49f68[m
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Wed Oct 14 11:29:11 2015 +0530
+
+    + Merge
+
+[33mcommit dc8cafd2f63ef2396fe973c65a9e900201d25a01[m
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Wed Oct 14 11:12:24 2015 +0530
+
+    + Credit
+
+[33mcommit 71bc9a24f0f8f1edef52fc9c8949cda62e577109[m
+Author: rahulrnitc <rahulrnitc@gmail.com>
+Date:   Wed Oct 14 10:34:44 2015 +0530
+
+    Update SampleCode.java
+
+[33mcommit f149474721464df690893ad6c291fffdfc3c9613[m
+Author: rahulrnitc <rahulrnitc@gmail.com>
+Date:   Wed Oct 14 10:33:29 2015 +0530
+
+    Create GetDetails.java
+    
+    Added PaypalExpressCheckout/Getdetails.java
+
+[33mcommit 5171725fa2d2281c615a4916c45eb5a9b351aa40[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Wed Oct 14 09:57:24 2015 +0530
+
+    Fixed merge conflict
+
+[33mcommit 01319f7195a45ee9a403e7bbd6c1f3dedb660c57[m
+Merge: 1c950fa 60f72cc
+Author: gnongsie <gnongsie@visa.com>
+Date:   Wed Oct 14 09:54:33 2015 +0530
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+    
+    Conflicts:
+            src/main/java/net/authorize/sample/SampleCode.java
+
+[33mcommit 879c9d45b9fb82066d3c92a03f5ad99d3844b9e1[m
+Merge: b110b0c 60f72cc
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Tue Oct 13 23:22:43 2015 +0530
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+    
+    Conflicts:
+            src/main/java/net/authorize/sample/SampleCode.java
+
+[33mcommit 60f72ccf9cb24dafbaaa0cb748f76cd3f0fd7eba[m
+Merge: 4188cf5 b22d917
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Oct 13 08:45:07 2015 -0700
+
+    Merge pull request #30 from sunnyrajrathod/master
+    
+    Paypal AuthAndCapture and Void transaction for java
+
+[33mcommit 4188cf58fc6beae6e8433fc06499349a82dd36cf[m
+Merge: 536a992 e3b2ff6
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Oct 13 08:44:14 2015 -0700
+
+    Merge pull request #31 from sapta89/master
+    
+    Sample Code for Authorize and Capture Continue
+
+[33mcommit e3b2ff664a7e14032282cf11fca907cc10009ea0[m
+Author: sapta89 <sbasu2324@gmail.com>
+Date:   Tue Oct 13 11:33:15 2015 +0530
+
+    change import in SampleCode to include all files in pap pal transactions
+
+[33mcommit d468a27ecedd94ace93841d22f174ee9f8aa3634[m
+Author: sapta89 <sbasu2324@gmail.com>
+Date:   Tue Oct 13 11:02:22 2015 +0530
+
+    AuthorizationAndCaptureContinue.java added to samples
+
+[33mcommit b22d917641e69cd9ef1517cb2eea709751a42209[m
+Merge: 6d21044 7eef284
+Author: srathod <srathod@visa.com>
+Date:   Mon Oct 12 22:23:55 2015 +0530
+
+    Merge branch 'master' of https://github.com/sunnyrajrathod/sample-code-java
+    
+    Conflicts:
+            src/main/java/net/authorize/sample/SampleCode.java
+
+[33mcommit 6d210441a4c7071e7fed292ee3dc772d6e61a6ce[m
+Author: srathod <srathod@visa.com>
+Date:   Wed Oct 7 16:54:14 2015 +0530
+
+    - Added PaypalAuthorizationAndCapture in menu.
+
+[33mcommit 395191dc3f7ebd93799c6a58852294a3362635d8[m
+Author: srathod <srathod@visa.com>
+Date:   Wed Oct 7 14:23:17 2015 +0530
+
+    - Added sample code for Paypal Authorization and capture and void
+    transaction.
+
+[33mcommit 1c950faaea8f8df4277c1030d851d18056178730[m
+Merge: 97b7fab 07d638f
+Author: gnongsie <gnongsie@visa.com>
+Date:   Mon Oct 12 10:38:11 2015 +0530
+
+    Merge branch 'master' of https://github.com/gnongsie/sample-code-java
+
+[33mcommit 97b7fabea1dafd147515cf6a6d21fedb297745d2[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Mon Oct 12 10:37:37 2015 +0530
+
+    Fixing missing files
+
+[33mcommit 07d638fb268ea8f5159fa4ff4fb91e45bd37307b[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Mon Oct 12 10:33:02 2015 +0530
+
+    Delete old directory
+
+[33mcommit 9f490ea52659cb367b9a86f70e069c9b64c4eda7[m
+Merge: a0a7686 45dd98a
+Author: gnongsie <gnongsie@visa.com>
+Date:   Mon Oct 12 10:28:21 2015 +0530
+
+    Merge branch 'master' of https://github.com/gnongsie/sample-code-java
+
+[33mcommit a0a7686c191ba70da248279c832dbf669db72dd5[m
+Merge: fa00f2d aad5f2b
+Author: gnongsie <gnongsie@visa.com>
+Date:   Mon Oct 12 10:25:26 2015 +0530
+
+    Merge branch 'master' of https://github.com/gnongsie/sample-code-java
+    
+    Conflicts:
+            src/main/java/net/authorize/sample/PayPalExpressCheckout/PriorAuthorizationCapture.java
+
+[33mcommit 45dd98a528cd473421200b0103bc856cd561b15e[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Mon Oct 12 10:20:01 2015 +0530
+
+    Update PriorAuthorizationCapture
+
+[33mcommit fa00f2d9c37b674956a8a9a16f64a7555b38ebe2[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Mon Oct 12 10:16:30 2015 +0530
+
+    Fix
+
+[33mcommit aad5f2b3ffc004d864c3bdc49f133e09200d9724[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Mon Oct 12 10:11:55 2015 +0530
+
+    Delete duplicate
+
+[33mcommit 539265b0fbf649773e1e5c7f7eaa5d643f789872[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Mon Oct 12 10:02:50 2015 +0530
+
+    Fix
+
+[33mcommit 63b1b8ee124ede3c8814847f2c2e67aa86ec9bf2[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Mon Oct 12 09:59:25 2015 +0530
+
+    Fix
+
+[33mcommit 87e5c48f7f63aa712a6665d4f7a9d0368a281e82[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Mon Oct 12 09:53:35 2015 +0530
+
+    Removed duplicate class
+
+[33mcommit dc6419d3fca2f7069638eeedc88166d92f9a233b[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Fri Oct 9 12:43:44 2015 +0530
+
+    Changes to SampleCode.java
+
+[33mcommit d191154c045230749f545b81df236e6bcbbbadc0[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Fri Oct 9 12:31:50 2015 +0530
+
+    Made changes to new version of SampleCode.java
+
+[33mcommit ca0e1ba9ce6c82a0a1d0e02e3ee389f7c8f44df8[m
+Merge: 27e4c98 536a992
+Author: gnongsie <gnongsie@visa.com>
+Date:   Fri Oct 9 12:28:21 2015 +0530
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+    
+    Conflicts:
+            src/main/java/net/authorize/sample/SampleCode.java
+
+[33mcommit 27e4c98cc18ab8503a2db19d44bab36e23c3e3b6[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Fri Oct 9 12:14:02 2015 +0530
+
+    Removed command line input.
+
+[33mcommit b110b0c76a1d8f0e5eb500ba7dfb442c712484cb[m
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Fri Oct 9 11:59:55 2015 +0530
+
+    +Updated comments
+
+[33mcommit a6afa6ba9d9abf1722beceb6cc0b8b80e5126716[m
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Fri Oct 9 11:57:52 2015 +0530
+
+    +Revert pom.xml
+
+[33mcommit 7829dd757cdcbe00567df160e163b6c16ba01eb8[m
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Fri Oct 9 11:53:12 2015 +0530
+
+    +removed local version of pom.xml
+
+[33mcommit 0320c70722e50942393171c0b9e7379fb099f665[m
+Merge: f6d2c1e 536a992
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Fri Oct 9 11:47:06 2015 +0530
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+    
+    Conflicts:
+            src/main/java/net/authorize/sample/SampleCode.java
+
+[33mcommit f6d2c1e931fbfe83e06a43872befc5f9f8ae1ecc[m
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Fri Oct 9 11:34:20 2015 +0530
+
+    +fetch upstream
+
+[33mcommit 536a9929aff6c83f947ac76fa15b0cb743f956b6[m
+Merge: 9a9d3c0 1a9da36
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Thu Oct 8 22:03:20 2015 -0700
+
+    Merge pull request #17 from kikmak42/master
+    
+    Adding sample code for PayPal Authorization only
+
+[33mcommit 1a9da363c8f735c999c55380e90af317e44cb226[m
+Author: Kaushik Mahato <kikmak42@gmail.com>
+Date:   Wed Oct 7 18:18:03 2015 +0530
+
+    Update pom.xml
+
+[33mcommit 4c5919fc74ab8921a2b567ec2414a07cf463a114[m
+Author: Kaushik Mahato <kikmak42@gmail.com>
+Date:   Wed Oct 7 18:16:54 2015 +0530
+
+    Update pom.xml to revert version
+    
+    Update pom.xml to revert version
+
+[33mcommit 8891982d4dd0146dbc88d34a4fa588694b67caf4[m
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Wed Oct 7 17:48:52 2015 +0530
+
+    +Correct Indentation
+
+[33mcommit 0e0edd04607c6aa5d6c671241b0a918d52bdae81[m
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Wed Oct 7 17:37:30 2015 +0530
+
+    +Remove Credit
+
+[33mcommit 2afb982a4d7b0ca86a2a16f3413e5b51fe7a75a7[m
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Wed Oct 7 17:26:52 2015 +0530
+
+    +AuthorizeOnlyContinue
+
+[33mcommit 7eef284920f7aa05ea6be29fb8f5f99c93544122[m
+Author: srathod <srathod@visa.com>
+Date:   Wed Oct 7 16:54:14 2015 +0530
+
+    - Added PaypalAuthorizationAndCapture in menu.
+
+[33mcommit 4cbcf7ded00d2fceb7eb92338707dd402fe9a291[m
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Wed Oct 7 16:35:28 2015 +0530
+
+    +Credit
+
+[33mcommit 70de474be000517b0ac94c078d6b7897067b610e[m
+Author: srathod <srathod@visa.com>
+Date:   Wed Oct 7 14:23:17 2015 +0530
+
+    - Added sample code for Paypal Authorization and capture and void
+    transaction.
+
+[33mcommit 7bd9724c56f420fda80acf499ae3e0cd67f9d3a1[m
+Author: gnongsie <gnongsie@visa.com>
+Date:   Wed Oct 7 11:57:45 2015 +0530
+
+    Added PriorAuthorizationCapture sample code
+
+[33mcommit 96974cf4bc34f33b9763c746b92e0450f3ff2c94[m
+Author: namanbansal <namanbansal21@gmail.com>
+Date:   Wed Oct 7 11:48:16 2015 +0530
+
+    +AuthorizationOnlyContinued
+
+[33mcommit 04f3d7656983eeaf22b2f1d1ff6aa4d43f812fb5[m
+Author: Kaushik Mahato <kkm.iitkgp@gmail.com>
+Date:   Tue Oct 6 14:22:13 2015 +0530
+
+    Added AuthorizationOnly.java
+
+[33mcommit 9a9d3c03598105555d07721fe987ae2f3b3a0f69[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Mon Sep 21 15:50:14 2015 -0700
+
+    Update SampleCode.java
+
+[33mcommit 55c728b081e9edf0ae3710d83dbfba616c7b5796[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Mon Sep 21 15:48:41 2015 -0700
+
+    Update GetListOfSubscriptions.java
+
+[33mcommit 33d54fb934b8992682f5f0c8ca7fb9e316383356[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Fri Sep 18 14:29:58 2015 -0700
+
+    Update and rename GetCustomerProfileID.java to GetCustomerProfileIds.java
+
+[33mcommit 2d01ff73189d22cbf6381a033893c3ae581f13c3[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Fri Sep 18 12:05:19 2015 -0700
+
+    Rename GetListSubscription.java to GetListOfSubscriptions.java
+
+[33mcommit 296fa51410ef801e28ceecb093101e2eac39cc32[m
+Merge: 25da40c 8b0d261
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Sep 15 21:32:42 2015 -0700
+
+    Merge pull request #10 from krgupta1/master
+    
+    Get settled Batch List code, thanks Kriti.
+
+[33mcommit 8b0d261bd3eb464b92f71ee219d8db7a148a6137[m
+Author: krgupta <krgupta@visa.com>
+Date:   Mon Sep 14 13:09:07 2015 -0700
+
+    Get settled Batch List code
+
+[33mcommit 25da40c17e8361a3e75d40cbe9f872ae881bbef0[m
+Merge: 860587a c29dbf7
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Mon Sep 14 08:49:03 2015 -0700
+
+    Merged changes
+
+[33mcommit c29dbf7688c56018d75786825a1db38f19b8114e[m
+Merge: 13219bc 907affc
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Mon Sep 14 08:33:13 2015 -0700
+
+    merged changes including removing logs
+
+[33mcommit 13219bc2fa9039f55a2fd622165a7eb5979257eb[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Mon Sep 14 08:18:46 2015 -0700
+
+    Sample updates
+
+[33mcommit 907affc0b5af4a8b5009879bd21658213eee7bb4[m
+Author: Anusha Varadharajan <anusha.varadharajan@gmail.com>
+Date:   Fri Sep 11 17:57:38 2015 -0700
+
+    Completed Customer Profiles
+
+[33mcommit 6e48c497d3238a3165d0aac3c30c6f7262447e9e[m
+Author: Anusha Varadharajan <anusha.varadharajan@gmail.com>
+Date:   Thu Sep 10 14:59:01 2015 -0700
+
+    Completed part of customer profiles
+
+[33mcommit 860587aa28c8bbc7dfd1d0efd70111f99afe81e0[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Sep 8 16:00:48 2015 -0700
+
+    Rename VisaCheckoutTransaction.java to CreateVisaCheckoutTransaction.java
+
+[33mcommit 462828e6b1443e62b88058b36c64fa86cba5fa90[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Sep 8 15:58:02 2015 -0700
+
+    Rename VisaCheckoutDecrypt.java to DecryptVisaCheckoutData.java
+
+[33mcommit fc041a81fa3f176744f345b71edb98a578859913[m
+Merge: bb6145c eae640b
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Fri Sep 4 14:53:25 2015 -0700
+
+    Merge pull request #8 from krgupta1/master
+    
+    Added samples for Transaction Reporting.  Thanks Kriti
+
+[33mcommit eae640b991b18919d944002e053c291c6b7b3318[m
+Author: krgupta <krgupta@visa.com>
+Date:   Thu Sep 3 16:17:53 2015 -0700
+
+    Transaction Reporting Test
+
+[33mcommit bb6145caaf4a04596b017f5e3220ea66069e4975[m
+Merge: 4d74679 1d1b750
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Sat Aug 29 00:17:36 2015 -0700
+
+    Merge branch 'anuvaradha-master'
+
+[33mcommit 1d1b75051cf0b55279808e0eed9e326131293943[m
+Merge: 4d74679 217fb59
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Sat Aug 29 00:17:08 2015 -0700
+
+    merged changes
+
+[33mcommit 217fb59ab6a683af3424f61c693f591d3ea18b13[m
+Author: Anusha Varadharajan <anusha.varadharajan@gmail.com>
+Date:   Fri Aug 28 17:04:17 2015 -0700
+
+    Completed Payment Transactions and Recurring Billing
+
+[33mcommit 4d746796c4517075fb356b8f71b8044bfe393acc[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Fri Aug 28 14:07:21 2015 -0700
+
+    Delete GetUnsettledTransactions.java
+
+[33mcommit 0739c08efdd08e85ad33091995554fc470315577[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed Aug 26 17:26:51 2015 -0700
+
+    Update README.md
+
+[33mcommit 6d728d78839a1b740eb4a057a94803f4997c3a64[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed Aug 26 17:23:41 2015 -0700
+
+    Create .travis.yml
+
+[33mcommit f70d75b723b51551c16a16966c68e7f1918a35e0[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Aug 25 22:04:30 2015 -0700
+
+    Update .gitignore
+
+[33mcommit 8c569f27365c2d28ad9ebf1ad6d47e3767644baf[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Tue Aug 25 22:00:33 2015 -0700
+
+    removed target dir
+
+[33mcommit ef932988aad26097ded2e5d520fdd359a5c46f72[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Tue Aug 25 21:58:54 2015 -0700
+
+    removed log files
+
+[33mcommit 90f2816058c4a6e1e0528007943eb3a6f1e37f22[m
+Merge: b86ff58 72bee6e
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Aug 25 21:56:03 2015 -0700
+
+    Merge pull request #6 from anuvaradha/master
+    
+    This is really fantastic, thanks again Anusha!
+
+[33mcommit 8445831452ea5b7bfaf9153238e37d99e18da62b[m
+Merge: 72bee6e b86ff58
+Author: Anusha Varadharajan <anusha.varadharajan@gmail.com>
+Date:   Tue Aug 25 16:48:19 2015 -0700
+
+    Merge remote-tracking branch 'upstream/master'
+
+[33mcommit 72bee6eedeceb7ea45c590d4efa7c22a184ec716[m
+Author: Anusha Varadharajan <anusha.varadharajan@gmail.com>
+Date:   Tue Aug 25 16:45:07 2015 -0700
+
+    Added capture previous amount,  capture only, refund transaction, debit and credit bank
+
+[33mcommit b86ff585deef0fd6b7447e2bf1f430b0b0243b92[m
+Merge: 7069da3 e836e05
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Aug 25 14:17:28 2015 -0700
+
+    Merge pull request #5 from anuvaradha/master
+    
+    Added CreatedCustomerPaymentProfile and AuthorizeCreditCard.  Thanks Anusha
+
+[33mcommit e836e05d1b9434c41383f11f9329768dfea64dfa[m
+Merge: 3a948e8 7069da3
+Author: Anusha Varadharajan <anusha.varadharajan@gmail.com>
+Date:   Tue Aug 25 13:53:56 2015 -0700
+
+    Modified CreateSubscription
+
+[33mcommit 3a948e840e3d1b1025e30dab917e088b2fe575e0[m
+Author: Anusha Varadharajan <anusha.varadharajan@gmail.com>
+Date:   Tue Aug 25 13:46:08 2015 -0700
+
+    Added CreateCustomerProfileFromTransaction, AuthorizeCreditCard
+
+[33mcommit 7069da3d7172eb3b3b9164ab9b0d7cf2bd3acf3e[m
+Merge: d57b687 3adf280
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Tue Aug 25 13:38:49 2015 -0700
+
+    Merge branch 'aul004-master'
+
+[33mcommit 3adf280d58ffd3b3954d0b3b335d27148a75b7eb[m
+Merge: d57b687 9cf6273
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Tue Aug 25 13:38:19 2015 -0700
+
+    merged PR
+
+[33mcommit 9cf6273f24cb4f75451c1c942881ecf0324deca6[m
+Author: Audrey Lee <audreylee899@gmail.com>
+Date:   Fri Aug 21 14:23:38 2015 -0700
+
+    Void Transaction works
+
+[33mcommit cb7895db0be49036cb3ccfe1b325f67be76f48e8[m
+Author: Anusha Varadharajan <anusha.varadharajan@gmail.com[push]>
+Date:   Fri Aug 14 13:00:45 2015 -0700
+
+    Modified CreateSubscription
+
+[33mcommit d57b687566950108ba8299694ca2881bf4ed000e[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Fri Aug 14 11:05:44 2015 -0700
+
+    Added Reporting Samples
+
+[33mcommit bc7ebc86075b271307d43a8fd4573f1836010a7a[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Fri Aug 14 10:58:25 2015 -0700
+
+    Added Recurring Billing Samples
+
+[33mcommit 7dc159217f05603689ad9295a21f44f7434b6988[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Fri Aug 14 10:55:55 2015 -0700
+
+    Added Payment Transaction Samples
+
+[33mcommit 32a89c8cda7d092c86e492293076fc160866ed22[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Fri Aug 14 10:21:08 2015 -0700
+
+    moved sample from defunct Manage directory into CustomerProfiles
+
+[33mcommit 8a0dce2a0042a3aef1ce93edc2f44ca4ea5df1f0[m
+Merge: 5bf1a1c 888b8c2
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Fri Aug 14 10:16:13 2015 -0700
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+
+[33mcommit 5bf1a1c9237a6d3bdb7e28470dc0caeb5f8356da[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Fri Aug 14 10:16:05 2015 -0700
+
+    Added samples for Customer Profiles
+
+[33mcommit 888b8c2185c481a2cbcc51e3a00d3eebe556354c[m
+Merge: 59650b4 55c8851
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Thu Aug 13 13:32:55 2015 -0700
+
+    Merge pull request #3 from anuvaradha/master
+    
+    Thanks for the PR Anusha, Audrey & Kriti
+
+[33mcommit 55c8851198bb5992f45abb03c6229eaa7d0f8edf[m
+Author: avaradha <avaradha@visa.com>
+Date:   Thu Aug 13 12:09:51 2015 -0700
+
+    Added samples
+
+[33mcommit 59650b418afcb14bcfe2672b160474972b8374d1[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Fri Aug 7 13:52:43 2015 -0700
+
+    Update README.md
+
+[33mcommit a71d66bc481b0a8d5e746d710d52c9b2045a0b82[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Fri Aug 7 13:51:43 2015 -0700
+
+    updated with new run model
+
+[33mcommit b6aec59c1cd32a3d9907942cf868f4112a176441[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Fri Aug 7 13:49:01 2015 -0700
+
+    updated with new run model
+
+[33mcommit eda4a7db6d8fb09de40c561e631d0fd7b0ae7013[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed Aug 5 21:43:24 2015 -0700
+
+    Update README.md
+
+[33mcommit 3e247c96fce3ed67d490be155fbb09ca3535dea7[m
+Merge: ce791f1 6ac31fd
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Thu Jun 4 12:01:50 2015 -0700
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+
+[33mcommit ce791f1a78c0b3c93127469a9a83d9428ff6113d[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Thu Jun 4 12:01:06 2015 -0700
+
+    added sample for ChargeCreditCard
+
+[33mcommit 6ac31fd1cf1f4a08e84c66be8f1f938d80dcf5e1[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Jun 2 07:35:26 2015 -0700
+
+    Update README.md
+
+[33mcommit b34180b5791e7ac4992304fbbe81b13721314ed9[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Tue Jun 2 07:33:45 2015 -0700
+
+    Added transaction sample for Visa Checkout
+
+[33mcommit 432f2eec462af6688a404d799bed99de1d1e5d5b[m
+Merge: 6847a75 e10da84
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Tue Jun 2 07:05:59 2015 -0700
+
+    Merge branch 'master' of https://github.com/AuthorizeNet/sample-code-java
+
+[33mcommit 6847a75fb88d7dfe684a4382f8407d344439d604[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Tue Jun 2 07:05:35 2015 -0700
+
+    updated
+
+[33mcommit e10da84b8a0fdc33caaf99a218bb9b22da940dc2[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Tue Jun 2 07:02:23 2015 -0700
+
+    Update README.md
+
+[33mcommit 0438fdf85cdbabcf5f0899ae509238cfd41c9adc[m
+Author: brianmc <bmcmanus@authorize.net>
+Date:   Sun May 31 23:18:41 2015 -0700
+
+    moved to a simple standard java code hierarchy
+
+[33mcommit 72ee8d2ede4130c361e4dae7e0bdefcab4a57b57[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed May 13 13:52:49 2015 -0700
+
+    Update README.md
+
+[33mcommit d07ada7f7e658a93d6b6658a9ae79deb8970b1dd[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed May 13 12:51:13 2015 -0700
+
+    Create GetUnsettledTransactions.java
+
+[33mcommit ebee0542a98c86b30e1b05486ee99dfd96086665[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed May 13 12:50:33 2015 -0700
+
+    Create CreateSubscription.java
+
+[33mcommit 34d17932f2b04e5a31b74abe459c17a13ce2866f[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed May 13 12:48:57 2015 -0700
+
+    Create CreateCustomerProfile.java
+
+[33mcommit 2c198d99d76f870497de199b72ac82cef1b2a0dd[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed May 13 12:48:03 2015 -0700
+
+    Create CreatePayPalTransaction.java
+
+[33mcommit 83422c1eca41d24850cc1ca37f77685b5b43e77c[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed May 13 12:42:15 2015 -0700
+
+    Create CreateApplePayTransaction.java
+
+[33mcommit 29f037b42fde68d4da8bd7e3b0d9f492c27e0dad[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Wed May 13 12:41:18 2015 -0700
+
+    Create README.md
+
+[33mcommit 01ce2e50b8925310e6244322d9f41fbc13a74347[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Mon May 11 11:43:57 2015 -0700
+
+    Update README.md
+
+[33mcommit 209564b0f769a6e359911946ee89b7264c51d622[m
+Author: Brian McManus <brianmc@users.noreply.github.com>
+Date:   Mon May 11 11:40:41 2015 -0700
+
+    Initial commit
